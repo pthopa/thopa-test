@@ -8,7 +8,7 @@ pipeline {
   stages {
     stage('checkout project') {
             steps {
-              step([$class:'DockerComposeBuilder'])
+              step([$class:'DockerComposeBuilder', dockerComposeFile:'./docker-compose.yml'])
         }
     }
    }
