@@ -3,7 +3,7 @@ pipeline {
   tools {
     maven 'Maven 3.5.4'
     jdk  'JDK 8'
-    org.jenkinsci.plugins.docker.commons.tools.DockerTool 'Docker'
+    DockerTool 'Docker'
   }
  
   stages {
