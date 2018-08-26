@@ -8,13 +8,7 @@ pipeline {
   stages {
     stage('checkout project') {
             steps {
-              checkout scm
-            }
-    } 
-  
-    stage('runTests') {
-        steps {
-            sh 'docker-compose up --abort-on-container-exit --exit-code-from seleniumtests'
+              step([$class:'DockerComposeBuilder'])
         }
     }
    }
