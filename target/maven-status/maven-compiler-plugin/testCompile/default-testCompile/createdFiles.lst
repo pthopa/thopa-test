@@ -1,0 +1,12 @@
+com/unisys/verfuture/base/TestBase.class
+com/unisys/verfuture/pages/FindI9FormPage.class
+com/unisys/verfuture/stepdefinitions/UIStepDef.class
+com/unisys/verfuture/stepdefinitions/Hooks.class
+com/unisys/verfuture/pages/confirmationPage.class
+com/unisys/verfuture/Verfuture_TestSuite.class
+com/unisys/verfuture/pages/HomePage.class
+com/unisys/verfuture/pages/I9FormPage.class
+com/unisys/verfuture/utilities/Helper.class
+com/unisys/verfuture/utilities/TestUtil$1.class
+com/unisys/verfuture/utilities/TestUtil.class
+com/unisys/verfuture/pages/FormsPage.class

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="21.972273">
+<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to submit a form" time="14.054104">
+<system-out><![CDATA[Given User  is on home page.................................................passed
+When click on FormsPage.....................................................passed
+Then FormsPage gets opened..................................................passed
+Then User clicks I9FormLink.................................................passed
+Then user can fill the form with name "sample_nm",alias_Name "aliasNm",date_of_birth "20071989" ,current_addr "1234"and status "Visa".passed
+And user should be able to enter alienno "a1234"............................passed
+Then click on submit button.................................................passed
+]]></system-out>
+</testcase>
+<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to edit the form" time="7.918169">
+<system-out><![CDATA[Given User  is on home page.................................................passed
+When click on FormsPage.....................................................passed
+Then FormsPage gets opened..................................................passed
+Then User clicks FindI9FormPageLink.........................................passed
+Then User enters formid "1234"..............................................passed
+And clicks on submit button.................................................passed
+Then form details get displayed.............................................passed
+Then close the browser......................................................passed
+]]></system-out>
+</testcase>
+</testsuite>

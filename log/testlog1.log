@@ -1,0 +1,1379 @@
+2018-08-13 11:03:37,130 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 11:09:23,762 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 11:09:29,582 [main] INFO LogDemo - =====Application Started=====
+2018-08-13 11:11:01,416 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 11:11:07,056 [main] INFO LogDemo - =====Application Started=====
+2018-08-13 11:26:02,323 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 11:26:07,739 [main] INFO LogDemo - =====Application Started=====
+2018-08-13 13:56:27,160 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 13:56:32,263 [main] INFO LogDemo - =====Application Started=====
+2018-08-13 15:10:43,580 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-13 15:10:48,913 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 10:06:53,342 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 10:06:58,870 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 10:06:59,458 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 10:07:02,132 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 10:07:02,648 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 10:07:05,291 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:24:41,381 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:24:46,780 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:24:47,405 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:24:50,222 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:24:50,781 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:24:53,610 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:25:47,610 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:25:52,604 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:25:52,695 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 11:25:53,876 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (4d630c104dd98a35c0f7ebf3be803db8)] -> xpath: //a[@href='/tips']]
+2018-08-14 11:25:54,102 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (4d630c104dd98a35c0f7ebf3be803db8)] -> xpath: //a[@href='/tips']]
+2018-08-14 11:25:54,923 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:25:57,631 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:25:57,680 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 11:25:59,173 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 11:26:01,864 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 11:26:01,939 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 12:58:07,792 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 12:58:13,783 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 12:58:13,954 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 12:58:15,106 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e74779121736d1e1652cb02059b49b23)] -> xpath: //a[@href='/tips']]
+2018-08-14 12:58:15,368 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e74779121736d1e1652cb02059b49b23)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:05:09,318 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:05:14,848 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:05:14,940 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:05:16,080 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7e71562d97efd552e016399d7cb4282b)] -> xpath: //a[text()='Users']]
+2018-08-14 13:05:16,271 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7e71562d97efd552e016399d7cb4282b)] -> xpath: //a[text()='Users']]
+2018-08-14 13:10:25,476 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:10:31,637 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:10:31,755 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 13:12:05,507 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:12:11,478 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:12:11,578 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:12:12,731 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (f3313d1882d12e0ab25dcbe2d8aacf53)] -> css selector: #basic-nav-dropdown]
+2018-08-14 13:12:12,775 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (f3313d1882d12e0ab25dcbe2d8aacf53)] -> css selector: #basic-nav-dropdown]
+2018-08-14 13:12:12,805 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 13:12:14,466 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (f3313d1882d12e0ab25dcbe2d8aacf53)] -> xpath: //a[@role='menuitem' and text()='Action']]
+2018-08-14 13:12:14,589 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (f3313d1882d12e0ab25dcbe2d8aacf53)] -> xpath: //a[@role='menuitem' and text()='Action']]
+2018-08-14 13:25:05,465 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:25:11,199 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:25:11,290 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:25:12,423 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (ee835db8c06ebecf2d3458bc742b70e4)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:25:12,637 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (ee835db8c06ebecf2d3458bc742b70e4)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:25:13,452 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:25:16,261 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:25:16,307 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:25:17,828 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:25:20,569 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:25:20,601 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:26:25,187 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:26:31,206 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:26:31,293 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:26:32,476 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (a423d36a2d45261852086ce680c9d188)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:26:32,761 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (a423d36a2d45261852086ce680c9d188)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:26:35,154 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:26:38,017 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:26:38,053 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:26:39,621 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:26:42,357 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:26:42,413 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:28:43,881 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:28:50,176 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:28:50,266 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:28:51,411 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (515a873d70395bb0fda309f38b432485)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:28:51,673 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (515a873d70395bb0fda309f38b432485)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:28:54,058 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:28:56,952 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:28:57,004 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:28:58,490 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:29:01,438 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:29:01,490 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:30:32,413 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:30:37,825 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:30:37,913 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:30:39,092 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (a0a68f77e8f9acbb3d2eb1df909a7154)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:30:39,378 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (a0a68f77e8f9acbb3d2eb1df909a7154)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:30:39,425 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:30:42,276 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:30:42,319 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:30:43,886 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:30:46,737 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:30:46,772 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:33:14,709 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:33:20,025 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:33:20,137 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:33:21,300 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (befe62f10402a07e09f74ef6ea2891fe)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:33:21,522 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (befe62f10402a07e09f74ef6ea2891fe)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:33:21,561 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:33:24,978 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:33:25,026 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:33:26,583 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:33:29,365 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:33:29,411 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:45:06,649 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:45:12,573 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:45:12,666 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:45:13,843 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (ca3ac85ddd01c8e8b70ba6a4421a796a)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:45:14,136 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (ca3ac85ddd01c8e8b70ba6a4421a796a)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:45:14,176 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:45:17,098 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:45:17,142 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:45:18,251 [main] INFO LogDemo - Users Link is clicked
+2018-08-14 13:45:18,557 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:45:21,463 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:45:21,513 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:45:22,626 [main] INFO LogDemo - dropdown link is clicked
+2018-08-14 13:45:22,753 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 13:47:46,994 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:47:52,737 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:47:52,820 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:47:53,993 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (c329daad1391cda15d30d77801a41adc)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:47:54,268 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (c329daad1391cda15d30d77801a41adc)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:47:54,312 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:47:57,113 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:47:57,158 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:47:58,276 [main] INFO LogDemo - Users Link is clicked
+2018-08-14 13:47:58,616 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:48:01,564 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:48:01,607 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:48:02,772 [main] INFO LogDemo - dropdown link is clicked
+2018-08-14 13:48:02,911 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 13:48:04,008 [main] INFO LogDemo - Action Link is clicked
+2018-08-14 13:48:44,357 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:48:50,092 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:48:50,168 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-14 13:48:51,339 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (c2cc4c56d69e3da073df7eb1a153a482)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:48:51,628 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (c2cc4c56d69e3da073df7eb1a153a482)] -> xpath: //a[@href='/tips']]
+2018-08-14 13:48:52,504 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:48:55,276 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:48:55,345 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-14 13:48:56,502 [main] INFO LogDemo - Users Link is clicked
+2018-08-14 13:48:57,546 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-14 13:49:00,373 [main] INFO LogDemo - =====Application Started=====
+2018-08-14 13:49:00,410 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-14 13:49:01,525 [main] INFO LogDemo - dropdown link is clicked
+2018-08-14 13:49:01,654 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-14 13:49:02,771 [main] INFO LogDemo - Action Link is clicked
+2018-08-15 10:56:48,809 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:56:55,957 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:56:56,086 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-15 10:57:00,739 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:57:04,874 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:57:04,933 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-15 10:57:26,420 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:57:34,813 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:57:34,938 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-15 10:57:36,080 [main] INFO LogDemo - dropdown link is clicked
+2018-08-15 10:57:36,182 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-15 10:57:55,760 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:58:01,740 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:58:01,881 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-15 10:58:03,015 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (75c90a9c062d82366c3df1c84af281ea)] -> xpath: //a[@href='/tips']]
+2018-08-15 10:58:03,217 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (75c90a9c062d82366c3df1c84af281ea)] -> xpath: //a[@href='/tips']]
+2018-08-15 10:58:04,027 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:58:06,781 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:58:06,833 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-15 10:58:08,004 [main] INFO LogDemo - Users Link is clicked
+2018-08-15 10:58:09,107 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 10:58:14,819 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 10:58:14,873 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-15 10:58:15,972 [main] INFO LogDemo - dropdown link is clicked
+2018-08-15 10:58:16,082 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-15 10:58:17,232 [main] INFO LogDemo - Action Link is clicked
+2018-08-15 16:14:16,598 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 16:14:22,515 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 16:14:22,635 [main] INFO LogDemo - User has clicked on TipsLink
+2018-08-15 16:14:23,756 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (8016ccd389d073bebf3d589b2e852de0)] -> xpath: //a[@href='/tips']]
+2018-08-15 16:14:24,046 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (8016ccd389d073bebf3d589b2e852de0)] -> xpath: //a[@href='/tips']]
+2018-08-15 16:14:24,898 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 16:14:27,765 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 16:14:27,849 [main] INFO LogDemo - User has clicked on UsersLink
+2018-08-15 16:14:28,952 [main] INFO LogDemo - Users Link is clicked
+2018-08-15 16:14:29,954 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 16:14:32,711 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 16:14:32,764 [main] INFO LogDemo - User has clicked on DropdownLink
+2018-08-15 16:14:33,871 [main] INFO LogDemo - dropdown link is clicked
+2018-08-15 16:14:34,005 [main] INFO LogDemo - User has clicked on ActionLink
+2018-08-15 16:14:35,141 [main] INFO LogDemo - Action Link is clicked
+2018-08-15 17:08:08,714 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 17:08:14,394 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 17:52:16,690 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 17:52:22,699 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 17:56:13,708 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 17:56:19,746 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 17:56:19,839 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 17:56:21,095 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (1156a0c9440f057a0e4cf344490298d8)] -> css selector: #nav-formI9]
+2018-08-15 17:56:21,195 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (1156a0c9440f057a0e4cf344490298d8)] -> css selector: #nav-formI9]
+2018-08-15 18:02:31,165 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:02:37,510 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:02:37,625 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:02:38,925 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e09c00a2ae9a76adc942be96f2bf6296)] -> css selector: #nav-formI9]
+2018-08-15 18:02:39,187 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e09c00a2ae9a76adc942be96f2bf6296)] -> css selector: #nav-formI9]
+2018-08-15 18:03:54,891 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:04:02,761 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:04:02,864 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:04:04,053 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (3533dd79abdb1f8e8ee7df5bf583d48d)] -> css selector: #nav-formI9]
+2018-08-15 18:04:04,181 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (3533dd79abdb1f8e8ee7df5bf583d48d)] -> css selector: #nav-formI9]
+2018-08-15 18:05:19,287 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:05:26,397 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:05:26,493 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:05:27,730 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (f7585cc5464759c4eccbe56f67e896d6)] -> css selector: #nav-formI9]
+2018-08-15 18:05:27,888 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (f7585cc5464759c4eccbe56f67e896d6)] -> css selector: #nav-formI9]
+2018-08-15 18:06:32,631 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:06:38,743 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:06:38,843 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:06:40,075 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (545b9c250b0cf78acdcc4020234c3451)] -> css selector: #nav-formI9]
+2018-08-15 18:06:40,243 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (545b9c250b0cf78acdcc4020234c3451)] -> css selector: #nav-formI9]
+2018-08-15 18:07:55,966 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:08:02,219 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:08:02,324 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:08:03,478 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (707f71d47a90bd9e2d0903c156605b9d)] -> css selector: #nav-formI9]
+2018-08-15 18:08:03,556 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (707f71d47a90bd9e2d0903c156605b9d)] -> css selector: #nav-formI9]
+2018-08-15 18:09:02,055 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:09:07,689 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:09:07,777 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:09:09,015 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9b0717fcd6644d3c5c27087ec2f035ec)] -> css selector: #nav-formI9]
+2018-08-15 18:09:09,148 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9b0717fcd6644d3c5c27087ec2f035ec)] -> css selector: #nav-formI9]
+2018-08-15 18:09:10,456 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:09:10,602 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:09:10,725 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:13:09,452 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:13:15,277 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:13:15,378 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:13:16,518 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (24b570416187c2f223080dadacae53e4)] -> css selector: #nav-formI9]
+2018-08-15 18:13:16,604 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (24b570416187c2f223080dadacae53e4)] -> css selector: #nav-formI9]
+2018-08-15 18:13:17,715 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:13:17,790 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:13:17,881 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:14:01,344 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:14:06,872 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:14:06,975 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:14:08,155 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (fb853991cb24070a07a093fb3fd05d59)] -> css selector: #nav-formI9]
+2018-08-15 18:14:08,258 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (fb853991cb24070a07a093fb3fd05d59)] -> css selector: #nav-formI9]
+2018-08-15 18:14:09,475 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:14:09,559 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:14:09,642 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:15:02,463 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:15:08,247 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:15:08,334 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:15:09,514 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (0aeb387a19d839614e4be856924b3b6f)] -> css selector: #nav-formI9]
+2018-08-15 18:15:09,622 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (0aeb387a19d839614e4be856924b3b6f)] -> css selector: #nav-formI9]
+2018-08-15 18:15:11,003 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:15:11,095 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:15:11,184 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:16:01,102 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:16:06,541 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:16:06,637 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:16:07,886 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (21bb4821811b1459db75c5b53aa0a255)] -> css selector: #nav-formI9]
+2018-08-15 18:16:08,014 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (21bb4821811b1459db75c5b53aa0a255)] -> css selector: #nav-formI9]
+2018-08-15 18:16:09,232 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:16:09,323 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:16:09,420 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:16:40,650 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:16:46,272 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:16:46,392 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:16:47,527 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (be9428c2f0bad0b219488dfbbc5d9768)] -> css selector: #nav-formI9]
+2018-08-15 18:16:47,625 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (be9428c2f0bad0b219488dfbbc5d9768)] -> css selector: #nav-formI9]
+2018-08-15 18:16:48,979 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:16:49,074 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:16:49,165 [main] INFO LogDemo - Clicked on submit button
+2018-08-15 18:25:29,143 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-15 18:25:35,295 [main] INFO LogDemo - =====Application Started=====
+2018-08-15 18:25:35,375 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-15 18:25:36,555 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (b1069ee59267b339ff286dda6ed3c54f)] -> css selector: #nav-formI9]
+2018-08-15 18:25:36,670 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (b1069ee59267b339ff286dda6ed3c54f)] -> css selector: #nav-formI9]
+2018-08-15 18:25:38,104 [main] INFO LogDemo - Form is filled with data
+2018-08-15 18:25:38,195 [main] INFO LogDemo - submit button is clicked
+2018-08-15 18:25:38,292 [main] INFO LogDemo - Clicked on submit button
+2018-08-16 09:21:11,919 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-16 09:21:17,655 [main] INFO LogDemo - =====Application Started=====
+2018-08-16 09:21:17,779 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-16 09:21:18,963 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (3a3a48452c381bd6d8f6c44c80d8464e)] -> css selector: #nav-formI9]
+2018-08-16 09:21:19,041 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (3a3a48452c381bd6d8f6c44c80d8464e)] -> css selector: #nav-formI9]
+2018-08-16 09:21:20,573 [main] INFO LogDemo - Form is filled with data
+2018-08-16 09:21:20,686 [main] INFO LogDemo - submit button is clicked
+2018-08-16 09:21:20,791 [main] INFO LogDemo - Clicked on submit button
+2018-08-16 09:37:48,482 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-16 09:37:54,574 [main] INFO LogDemo - =====Application Started=====
+2018-08-16 09:37:54,677 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-16 09:37:55,852 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (be37e3a2e58b13576cd75bebb8f8afbd)] -> css selector: #nav-formI9]
+2018-08-16 09:37:55,948 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (be37e3a2e58b13576cd75bebb8f8afbd)] -> css selector: #nav-formI9]
+2018-08-16 09:37:57,150 [main] INFO LogDemo - Form is filled with data
+2018-08-16 09:37:57,222 [main] INFO LogDemo - submit button is clicked
+2018-08-16 09:37:57,301 [main] INFO LogDemo - Clicked on submit button
+2018-08-16 14:53:26,575 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-16 14:53:34,784 [main] INFO LogDemo - =====Application Started=====
+2018-08-16 14:53:34,901 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-16 14:53:36,070 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (353622c9abeb231b4a30885c18ae3e6f)] -> css selector: #nav-formI9]
+2018-08-16 14:53:36,158 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (353622c9abeb231b4a30885c18ae3e6f)] -> css selector: #nav-formI9]
+2018-08-16 14:53:37,497 [main] INFO LogDemo - Form is filled with data
+2018-08-16 14:53:37,631 [main] INFO LogDemo - submit button is clicked
+2018-08-16 14:53:37,743 [main] INFO LogDemo - Clicked on submit button
+2018-08-16 15:17:16,402 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-16 15:17:22,599 [main] INFO LogDemo - =====Application Started=====
+2018-08-16 15:17:22,718 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-16 15:17:23,860 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (dcbb9032ac730ab4c9e83c26e3c426eb)] -> css selector: #nav-formI9]
+2018-08-16 15:17:23,946 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (dcbb9032ac730ab4c9e83c26e3c426eb)] -> css selector: #nav-formI9]
+2018-08-16 15:17:25,169 [main] INFO LogDemo - Form is filled with data
+2018-08-16 15:17:25,249 [main] INFO LogDemo - submit button is clicked
+2018-08-16 15:17:25,346 [main] INFO LogDemo - Clicked on submit button
+2018-08-17 11:28:21,665 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-17 11:28:27,680 [main] INFO LogDemo - =====Application Started=====
+2018-08-17 11:28:27,781 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-17 11:28:28,926 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (836aaac1306c8841e3ff23be68dfc7ca)] -> css selector: #nav-formI9]
+2018-08-17 11:28:29,011 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (836aaac1306c8841e3ff23be68dfc7ca)] -> css selector: #nav-formI9]
+2018-08-17 11:28:30,243 [main] INFO LogDemo - Form is filled with data
+2018-08-17 11:28:30,326 [main] INFO LogDemo - submit button is clicked
+2018-08-17 11:28:30,406 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 09:52:36,494 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 09:52:42,557 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 09:52:42,661 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 09:52:43,800 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (2fd05879c1dc84d02a68ec988ad9693f)] -> css selector: #nav-formI9]
+2018-08-21 09:52:43,888 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (2fd05879c1dc84d02a68ec988ad9693f)] -> css selector: #nav-formI9]
+2018-08-21 10:44:12,910 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:44:20,254 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:44:20,381 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:44:21,541 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e22869aad338f663404d68096dbaa6e8)] -> css selector: #nav-formI9]
+2018-08-21 10:44:21,639 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e22869aad338f663404d68096dbaa6e8)] -> css selector: #nav-formI9]
+2018-08-21 10:45:29,943 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:45:37,463 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:45:37,576 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:45:38,731 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7100fe88ddeec2d29f9673c6529a4396)] -> css selector: #nav-formI9]
+2018-08-21 10:45:38,817 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7100fe88ddeec2d29f9673c6529a4396)] -> css selector: #nav-formI9]
+2018-08-21 10:49:15,617 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:49:22,653 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:49:22,767 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:49:23,944 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (449bb3dee21c81504968043e959bdeb3)] -> css selector: #nav-formI9]
+2018-08-21 10:49:24,060 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (449bb3dee21c81504968043e959bdeb3)] -> css selector: #nav-formI9]
+2018-08-21 10:49:25,026 [main] INFO LogDemo - Form is filled with data
+2018-08-21 10:49:25,093 [main] INFO LogDemo - submit button is clicked
+2018-08-21 10:49:25,164 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 10:50:09,406 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:50:15,299 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:50:15,415 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:50:16,580 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (fb4d37c3804644107f5879ab794da75c)] -> css selector: #nav-formI9]
+2018-08-21 10:50:16,658 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (fb4d37c3804644107f5879ab794da75c)] -> css selector: #nav-formI9]
+2018-08-21 10:50:17,624 [main] INFO LogDemo - Form is filled with data
+2018-08-21 10:50:17,698 [main] INFO LogDemo - submit button is clicked
+2018-08-21 10:50:17,765 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 10:53:01,592 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:53:08,676 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:53:08,785 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:53:09,945 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9a73b905b15949d1de033b43e33d12ac)] -> css selector: #nav-formI9]
+2018-08-21 10:53:10,049 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9a73b905b15949d1de033b43e33d12ac)] -> css selector: #nav-formI9]
+2018-08-21 10:53:10,899 [main] INFO LogDemo - Form is filled with data
+2018-08-21 10:53:10,973 [main] INFO LogDemo - submit button is clicked
+2018-08-21 10:53:11,068 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 10:57:32,334 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:57:37,831 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:57:37,936 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:57:39,104 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (a211e8d8390509c8345a0d1de9796744)] -> css selector: #nav-formI9]
+2018-08-21 10:57:39,190 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (a211e8d8390509c8345a0d1de9796744)] -> css selector: #nav-formI9]
+2018-08-21 10:57:40,199 [main] INFO LogDemo - Form is filled with data
+2018-08-21 10:57:40,277 [main] INFO LogDemo - submit button is clicked
+2018-08-21 10:57:40,363 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 10:59:25,962 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 10:59:31,618 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 10:59:31,724 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 10:59:32,840 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (d200a8852893a9a8fd20a6b47c61358a)] -> css selector: #nav-formI9]
+2018-08-21 10:59:32,911 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (d200a8852893a9a8fd20a6b47c61358a)] -> css selector: #nav-formI9]
+2018-08-21 10:59:33,883 [main] INFO LogDemo - Form is filled with data
+2018-08-21 10:59:33,960 [main] INFO LogDemo - submit button is clicked
+2018-08-21 10:59:34,037 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 11:00:41,887 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 11:00:46,492 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 11:00:46,589 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 11:00:47,732 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (6a0b474d488443df0966ef511e1c929e)] -> css selector: #nav-formI9]
+2018-08-21 11:00:47,815 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (6a0b474d488443df0966ef511e1c929e)] -> css selector: #nav-formI9]
+2018-08-21 11:00:48,653 [main] INFO LogDemo - Form is filled with data
+2018-08-21 11:00:48,758 [main] INFO LogDemo - submit button is clicked
+2018-08-21 11:00:48,840 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 11:03:13,988 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 11:03:20,791 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 11:03:20,922 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 11:03:22,088 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (67b1865cba183681e6caf50098fe70f9)] -> css selector: #nav-formI9]
+2018-08-21 11:03:22,329 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (67b1865cba183681e6caf50098fe70f9)] -> css selector: #nav-formI9]
+2018-08-21 11:03:23,709 [main] INFO LogDemo - Form is filled with data
+2018-08-21 11:03:23,878 [main] INFO LogDemo - submit button is clicked
+2018-08-21 11:03:24,092 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 11:09:08,853 [main] INFO LogDemo - Hold Execution for 500 Secs
+2018-08-21 11:09:46,069 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 11:09:51,160 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 11:09:51,259 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 11:09:52,438 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (a051db7a47267d4543a36947e9a1c771)] -> css selector: #nav-formI9]
+2018-08-21 11:09:52,519 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (a051db7a47267d4543a36947e9a1c771)] -> css selector: #nav-formI9]
+2018-08-21 11:09:53,485 [main] INFO LogDemo - Form is filled with data
+2018-08-21 11:09:53,560 [main] INFO LogDemo - submit button is clicked
+2018-08-21 11:09:53,627 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 11:30:39,040 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 11:30:44,163 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 11:30:44,273 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 11:30:45,411 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9070f19a8323cd00e57868a2f9c80f34)] -> css selector: #nav-formI9]
+2018-08-21 11:30:45,495 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9070f19a8323cd00e57868a2f9c80f34)] -> css selector: #nav-formI9]
+2018-08-21 11:30:46,537 [main] INFO LogDemo - Form is filled with data
+2018-08-21 11:30:46,621 [main] INFO LogDemo - submit button is clicked
+2018-08-21 11:30:46,698 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 11:36:14,633 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 11:36:19,886 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 11:36:19,996 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 11:36:21,156 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (009ab203bce58c2982e0c1aecfe1a3af)] -> css selector: #nav-formI9]
+2018-08-21 11:36:21,244 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (009ab203bce58c2982e0c1aecfe1a3af)] -> css selector: #nav-formI9]
+2018-08-21 11:36:22,332 [main] INFO LogDemo - Form is filled with data
+2018-08-21 11:36:22,412 [main] INFO LogDemo - submit button is clicked
+2018-08-21 11:36:22,488 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 12:07:58,465 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:08:03,268 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:08:03,373 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:08:04,505 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (a7485ca28c96c20db221eecd602eabba)] -> css selector: #nav-formI9]
+2018-08-21 12:08:04,580 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (a7485ca28c96c20db221eecd602eabba)] -> css selector: #nav-formI9]
+2018-08-21 12:08:05,663 [main] INFO LogDemo - Form is filled with data
+2018-08-21 12:13:24,353 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:13:29,889 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:13:29,996 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:13:31,157 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (04bbb76372ff5de8e24ef42e2b702226)] -> css selector: #nav-formI9]
+2018-08-21 12:13:31,248 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (04bbb76372ff5de8e24ef42e2b702226)] -> css selector: #nav-formI9]
+2018-08-21 12:13:32,556 [main] INFO LogDemo - Form is filled with data
+2018-08-21 12:23:20,952 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:23:27,412 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:23:27,563 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:23:28,719 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (960d7f0a8d5980ba2bbe8520a00a9e46)] -> css selector: #nav-formI9]
+2018-08-21 12:23:28,839 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (960d7f0a8d5980ba2bbe8520a00a9e46)] -> css selector: #nav-formI9]
+2018-08-21 12:23:30,711 [main] INFO LogDemo - Form is filled with data
+2018-08-21 12:25:05,598 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:25:11,390 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:25:11,496 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:25:12,634 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (833c1fb395fa056a55b0b4e2506f2ad6)] -> css selector: #nav-formI9]
+2018-08-21 12:25:12,733 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (833c1fb395fa056a55b0b4e2506f2ad6)] -> css selector: #nav-formI9]
+2018-08-21 12:25:14,573 [main] INFO LogDemo - Form is filled with data
+2018-08-21 12:39:02,659 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:39:07,342 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:39:07,449 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:39:08,608 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (6fd250e46e80709a91a3a178335618ef)] -> css selector: #nav-formI9]
+2018-08-21 12:39:08,692 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (6fd250e46e80709a91a3a178335618ef)] -> css selector: #nav-formI9]
+2018-08-21 12:39:10,468 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 12:39:12,870 [main] INFO LogDemo - Form is filled with data
+2018-08-21 12:40:00,861 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 12:40:05,610 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 12:40:05,704 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 12:40:06,856 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (4d646afcfac1d0bd13844571c38de0cd)] -> css selector: #nav-formI9]
+2018-08-21 12:40:06,926 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (4d646afcfac1d0bd13844571c38de0cd)] -> css selector: #nav-formI9]
+2018-08-21 12:40:08,660 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 12:40:11,350 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:18:21,599 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:18:27,128 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:18:27,237 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:18:28,466 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (726db2b9cee268bfa443b4522860fc77)] -> css selector: #nav-formI9]
+2018-08-21 13:18:28,589 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (726db2b9cee268bfa443b4522860fc77)] -> css selector: #nav-formI9]
+2018-08-21 13:18:30,435 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:18:33,265 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:21:00,388 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:21:06,019 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:21:06,133 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:21:07,350 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (19f734f11c8f8e0aebdd80d8f1d31eae)] -> css selector: #nav-formI9]
+2018-08-21 13:21:07,462 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (19f734f11c8f8e0aebdd80d8f1d31eae)] -> css selector: #nav-formI9]
+2018-08-21 13:21:09,159 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:21:11,888 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:21:46,686 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:21:51,968 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:21:52,090 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:21:53,413 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9842b9ab14828ea34db42d6f89351b11)] -> css selector: #nav-formI9]
+2018-08-21 13:21:53,559 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9842b9ab14828ea34db42d6f89351b11)] -> css selector: #nav-formI9]
+2018-08-21 13:21:55,493 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:21:58,298 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:23:33,640 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:23:38,983 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:23:39,090 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:23:40,377 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7ee4596914bc2ab45d464cb018a1d9b3)] -> css selector: #nav-formI9]
+2018-08-21 13:23:40,497 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7ee4596914bc2ab45d464cb018a1d9b3)] -> css selector: #nav-formI9]
+2018-08-21 13:23:42,203 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:23:45,086 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:37:53,372 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:37:58,434 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:37:58,538 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:37:59,738 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (33304f6d78696345237ee80f426a49fa)] -> css selector: #nav-formI9]
+2018-08-21 13:37:59,866 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (33304f6d78696345237ee80f426a49fa)] -> css selector: #nav-formI9]
+2018-08-21 13:38:01,974 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:38:04,739 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:39:28,038 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:39:33,276 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:39:33,386 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:39:34,514 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (14cf3dba7258a30cfcdb004dd303717f)] -> css selector: #nav-formI9]
+2018-08-21 13:39:34,601 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (14cf3dba7258a30cfcdb004dd303717f)] -> css selector: #nav-formI9]
+2018-08-21 13:39:36,315 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:39:39,226 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:54:56,955 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:55:04,643 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:55:04,737 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:55:05,880 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (abc95c8165b530d8da109226139e2aaf)] -> css selector: #nav-formI9]
+2018-08-21 13:55:05,962 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (abc95c8165b530d8da109226139e2aaf)] -> css selector: #nav-formI9]
+2018-08-21 13:55:07,866 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:55:10,640 [main] INFO LogDemo - Form is filled with data
+2018-08-21 13:56:30,419 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 13:56:37,682 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 13:56:37,787 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 13:56:39,070 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e710faec5b98c8354ee897cd88d20d2b)] -> css selector: #nav-formI9]
+2018-08-21 13:56:39,222 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e710faec5b98c8354ee897cd88d20d2b)] -> css selector: #nav-formI9]
+2018-08-21 13:56:40,909 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 13:56:43,654 [main] INFO LogDemo - Form is filled with data
+2018-08-21 14:00:54,499 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 14:01:00,099 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 14:01:00,190 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 14:01:01,423 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (f7d7e2e101daa746c574d3e7c06ef0d7)] -> css selector: #nav-formI9]
+2018-08-21 14:01:01,525 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (f7d7e2e101daa746c574d3e7c06ef0d7)] -> css selector: #nav-formI9]
+2018-08-21 14:01:03,278 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 14:01:06,969 [main] INFO LogDemo - Form is filled with data
+2018-08-21 14:04:37,002 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 14:04:43,121 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 14:04:43,235 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 14:04:44,375 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (54d4438cb92577f56ee65f399f7798bf)] -> css selector: #nav-formI9]
+2018-08-21 14:04:44,450 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (54d4438cb92577f56ee65f399f7798bf)] -> css selector: #nav-formI9]
+2018-08-21 14:04:46,230 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 14:04:49,923 [main] INFO LogDemo - Form is filled with data
+2018-08-21 14:04:50,026 [main] INFO LogDemo - submit button is clicked
+2018-08-21 14:04:50,104 [main] INFO LogDemo - Clicked on submit button
+2018-08-21 14:06:11,995 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-21 14:06:17,255 [main] INFO LogDemo - =====Application Started=====
+2018-08-21 14:06:17,369 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-21 14:06:18,507 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (306d4ec378b11cac739234f52164e8f6)] -> css selector: #nav-formI9]
+2018-08-21 14:06:18,580 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (306d4ec378b11cac739234f52164e8f6)] -> css selector: #nav-formI9]
+2018-08-21 14:06:20,373 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-21 14:06:23,839 [main] INFO LogDemo - Form is filled with data
+2018-08-21 14:06:23,916 [main] INFO LogDemo - submit button is clicked
+2018-08-21 14:06:23,982 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 10:32:40,946 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:32:46,435 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:32:46,542 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:32:47,701 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (f597453b70136b537910046e28b582f2)] -> css selector: [href='#']]
+2018-08-22 10:32:47,756 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (f597453b70136b537910046e28b582f2)] -> css selector: [href='#']]
+2018-08-22 10:33:51,118 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:33:56,038 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:33:56,128 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:33:57,250 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (5f7a1baaf50d67b0a9fb3a5c1556dcec)] -> css selector: [href='#']]
+2018-08-22 10:33:57,307 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (5f7a1baaf50d67b0a9fb3a5c1556dcec)] -> css selector: [href='#']]
+2018-08-22 10:36:53,408 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:36:58,040 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:36:58,138 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:36:59,254 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (331bdd3a7465d6a335182db328b5cc92)] -> css selector: [href='#']]
+2018-08-22 10:36:59,304 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (331bdd3a7465d6a335182db328b5cc92)] -> css selector: [href='#']]
+2018-08-22 10:36:59,354 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 10:37:00,491 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (331bdd3a7465d6a335182db328b5cc92)] -> css selector: #nav-formI9]
+2018-08-22 10:37:00,597 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (331bdd3a7465d6a335182db328b5cc92)] -> css selector: #nav-formI9]
+2018-08-22 10:45:33,931 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:45:38,686 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:45:38,784 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:45:39,948 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (66b57ec6ee0510a9cf9afb6e69896917)] -> css selector: [href='#']]
+2018-08-22 10:45:39,992 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (66b57ec6ee0510a9cf9afb6e69896917)] -> css selector: [href='#']]
+2018-08-22 10:45:40,040 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 10:45:41,138 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (66b57ec6ee0510a9cf9afb6e69896917)] -> css selector: #nav-formI9]
+2018-08-22 10:45:41,214 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (66b57ec6ee0510a9cf9afb6e69896917)] -> css selector: #nav-formI9]
+2018-08-22 10:48:03,045 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:48:08,160 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:48:08,253 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:48:09,404 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7d4282172e64633586ee9a08489d553b)] -> css selector: [href='#']]
+2018-08-22 10:48:09,450 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7d4282172e64633586ee9a08489d553b)] -> css selector: [href='#']]
+2018-08-22 10:48:09,501 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 10:48:10,638 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7d4282172e64633586ee9a08489d553b)] -> css selector: #nav-formI9]
+2018-08-22 10:48:10,727 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7d4282172e64633586ee9a08489d553b)] -> css selector: #nav-formI9]
+2018-08-22 10:52:02,697 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:52:07,702 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:52:07,797 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:52:08,962 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9b3e0a55860078dd3b66989cab373ef7)] -> css selector: [href='#']]
+2018-08-22 10:52:09,009 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9b3e0a55860078dd3b66989cab373ef7)] -> css selector: [href='#']]
+2018-08-22 10:52:09,058 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 10:52:10,180 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (9b3e0a55860078dd3b66989cab373ef7)] -> css selector: #nav-formI9]
+2018-08-22 10:52:10,278 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (9b3e0a55860078dd3b66989cab373ef7)] -> css selector: #nav-formI9]
+2018-08-22 10:52:12,191 [main] INFO LogDemo - Clicked on File Upload Button
+2018-08-22 10:54:00,241 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 10:54:05,058 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 10:54:05,158 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 10:54:06,335 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (3d76b4435109499121024926187bed2a)] -> css selector: [href='#']]
+2018-08-22 10:54:06,386 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (3d76b4435109499121024926187bed2a)] -> css selector: [href='#']]
+2018-08-22 10:54:06,424 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 10:54:07,586 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (3d76b4435109499121024926187bed2a)] -> css selector: #nav-formI9]
+2018-08-22 10:54:07,675 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (3d76b4435109499121024926187bed2a)] -> css selector: #nav-formI9]
+2018-08-22 10:54:08,683 [main] INFO LogDemo - submit button is clicked
+2018-08-22 10:54:08,784 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 11:10:16,233 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:10:21,135 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:10:21,233 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:10:22,388 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (244c5d601ed2c3882048f7b608d9085a)] -> css selector: [href='#']]
+2018-08-22 11:10:22,435 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (244c5d601ed2c3882048f7b608d9085a)] -> css selector: [href='#']]
+2018-08-22 11:10:22,479 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 11:10:23,586 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (244c5d601ed2c3882048f7b608d9085a)] -> css selector: #nav-formI9]
+2018-08-22 11:10:23,675 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (244c5d601ed2c3882048f7b608d9085a)] -> css selector: #nav-formI9]
+2018-08-22 11:10:24,741 [main] INFO LogDemo - submit button is clicked
+2018-08-22 11:10:24,837 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 11:10:26,100 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:10:28,714 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:10:28,756 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:12:25,003 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:12:29,851 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:12:29,936 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:12:31,107 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7cbd6b9d41e39c11fc17b71bb098c092)] -> css selector: [href='#']]
+2018-08-22 11:12:31,158 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7cbd6b9d41e39c11fc17b71bb098c092)] -> css selector: [href='#']]
+2018-08-22 11:13:25,229 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:13:30,041 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:13:30,137 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:13:31,303 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (ce4bb72813157063ad73ac8cf8711c52)] -> css selector: [href='#']]
+2018-08-22 11:13:31,355 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (ce4bb72813157063ad73ac8cf8711c52)] -> css selector: [href='#']]
+2018-08-22 11:18:05,183 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:18:10,388 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:18:10,473 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:18:11,636 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (1da415462c5a62fb1b4bcfb0215009b8)] -> css selector: [href='#']]
+2018-08-22 11:18:11,707 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (1da415462c5a62fb1b4bcfb0215009b8)] -> css selector: [href='#']]
+2018-08-22 11:18:11,759 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-22 11:18:12,888 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (1da415462c5a62fb1b4bcfb0215009b8)] -> css selector: #nav-find-id]
+2018-08-22 11:18:12,940 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (1da415462c5a62fb1b4bcfb0215009b8)] -> css selector: #nav-find-id]
+2018-08-22 11:18:13,109 [main] INFO LogDemo - Find By Id field is filled
+2018-08-22 11:20:15,138 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:20:19,849 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:20:19,965 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:20:21,142 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (1c94b74008f97a1c42dc18b8e84bdc00)] -> css selector: [href='#']]
+2018-08-22 11:20:21,209 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (1c94b74008f97a1c42dc18b8e84bdc00)] -> css selector: [href='#']]
+2018-08-22 11:20:21,256 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 11:20:22,371 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (1c94b74008f97a1c42dc18b8e84bdc00)] -> css selector: #nav-formI9]
+2018-08-22 11:20:22,462 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (1c94b74008f97a1c42dc18b8e84bdc00)] -> css selector: #nav-formI9]
+2018-08-22 11:20:23,546 [main] INFO LogDemo - submit button is clicked
+2018-08-22 11:20:23,641 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 11:20:24,915 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:20:27,095 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:20:27,146 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:22:03,466 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:22:08,668 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:22:08,762 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:22:09,913 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (42e240b0800c8d014ca64c25b8141d4e)] -> css selector: [href='#']]
+2018-08-22 11:22:09,966 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (42e240b0800c8d014ca64c25b8141d4e)] -> css selector: [href='#']]
+2018-08-22 11:22:10,011 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 11:22:11,173 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (42e240b0800c8d014ca64c25b8141d4e)] -> css selector: #nav-formI9]
+2018-08-22 11:22:11,256 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (42e240b0800c8d014ca64c25b8141d4e)] -> css selector: #nav-formI9]
+2018-08-22 11:22:12,453 [main] INFO LogDemo - submit button is clicked
+2018-08-22 11:22:12,554 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 11:22:13,329 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:22:15,694 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:22:15,737 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:24:47,812 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:24:53,323 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:24:53,412 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 11:24:54,585 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e8d5b74dfe46a769235930462f706b25)] -> css selector: [href='#']]
+2018-08-22 11:24:54,631 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e8d5b74dfe46a769235930462f706b25)] -> css selector: [href='#']]
+2018-08-22 11:24:54,677 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 11:24:55,771 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (e8d5b74dfe46a769235930462f706b25)] -> css selector: #nav-formI9]
+2018-08-22 11:24:55,854 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (e8d5b74dfe46a769235930462f706b25)] -> css selector: #nav-formI9]
+2018-08-22 11:24:57,024 [main] INFO LogDemo - submit button is clicked
+2018-08-22 11:24:57,128 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 11:24:57,885 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 11:25:00,373 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 11:25:00,429 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:53:15,446 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:53:20,196 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:53:20,305 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:53:21,445 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (b85022fc1f5defab1a6abdd5733abbfe)] -> css selector: [href='#']]
+2018-08-22 12:53:21,489 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (b85022fc1f5defab1a6abdd5733abbfe)] -> css selector: [href='#']]
+2018-08-22 12:53:21,543 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 12:53:22,653 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (b85022fc1f5defab1a6abdd5733abbfe)] -> css selector: #nav-formI9]
+2018-08-22 12:53:22,771 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (b85022fc1f5defab1a6abdd5733abbfe)] -> css selector: #nav-formI9]
+2018-08-22 12:53:23,828 [main] INFO LogDemo - submit button is clicked
+2018-08-22 12:53:23,935 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 12:53:25,199 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:53:27,406 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:53:27,452 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:55:19,689 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:55:24,865 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:55:24,946 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:55:26,109 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7893c8632e87257d70abba4b9db5eada)] -> css selector: [href='#']]
+2018-08-22 12:55:26,157 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7893c8632e87257d70abba4b9db5eada)] -> css selector: [href='#']]
+2018-08-22 12:55:26,204 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 12:55:27,343 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (7893c8632e87257d70abba4b9db5eada)] -> css selector: #nav-formI9]
+2018-08-22 12:55:27,421 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (7893c8632e87257d70abba4b9db5eada)] -> css selector: #nav-formI9]
+2018-08-22 12:55:28,579 [main] INFO LogDemo - submit button is clicked
+2018-08-22 12:55:28,685 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 12:55:30,018 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:55:32,465 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:55:32,508 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:56:41,053 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:56:46,274 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:56:46,360 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 12:56:47,519 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (097d42a322b9c8a987a1d2a8eb8b6725)] -> css selector: [href='#']]
+2018-08-22 12:56:47,566 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (097d42a322b9c8a987a1d2a8eb8b6725)] -> css selector: [href='#']]
+2018-08-22 12:56:47,614 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 12:56:48,723 [main] INFO LogDemo - JS Scrolled into an Element: [[ChromeDriver: chrome on XP (097d42a322b9c8a987a1d2a8eb8b6725)] -> css selector: #nav-formI9]
+2018-08-22 12:56:48,801 [main] INFO LogDemo - JS Clicked on an Element: [[ChromeDriver: chrome on XP (097d42a322b9c8a987a1d2a8eb8b6725)] -> css selector: #nav-formI9]
+2018-08-22 12:56:49,876 [main] INFO LogDemo - submit button is clicked
+2018-08-22 12:56:49,983 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 12:56:50,562 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 12:56:52,770 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 12:56:52,817 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:04:51,381 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:04:56,540 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:04:56,635 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:04:57,764 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:04:57,920 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 13:04:59,030 [main] INFO LogDemo - i9form is clicked
+2018-08-22 13:05:00,549 [main] INFO LogDemo - submit button is clicked
+2018-08-22 13:05:00,650 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 13:05:01,328 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:05:03,837 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:05:03,876 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:05:04,984 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:05:05,095 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-22 13:05:06,203 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-22 13:05:06,479 [main] INFO LogDemo - Find By Id field is filled
+2018-08-22 13:06:19,630 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:06:24,652 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:06:24,764 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:06:25,893 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:06:26,072 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 13:06:27,174 [main] INFO LogDemo - i9form is clicked
+2018-08-22 13:06:28,431 [main] INFO LogDemo - submit button is clicked
+2018-08-22 13:06:28,528 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 13:06:29,115 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:06:31,348 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:06:31,393 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:06:32,477 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:06:32,581 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-22 13:06:33,654 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-22 13:06:33,906 [main] INFO LogDemo - Find By Id field is filled
+2018-08-22 13:09:16,305 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:09:21,093 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:09:21,204 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:09:22,322 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:09:22,498 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-22 13:09:23,583 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-22 13:09:23,878 [main] INFO LogDemo - Find By Id field is filled
+2018-08-22 13:10:27,911 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:10:32,732 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:10:32,836 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:10:33,942 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:10:34,095 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-22 13:10:35,178 [main] INFO LogDemo - i9form is clicked
+2018-08-22 13:10:36,357 [main] INFO LogDemo - submit button is clicked
+2018-08-22 13:10:36,447 [main] INFO LogDemo - Clicked on submit button
+2018-08-22 13:10:37,038 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-22 13:10:39,562 [main] INFO LogDemo - =====Application Started=====
+2018-08-22 13:10:39,609 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-22 13:10:40,744 [main] INFO LogDemo - Forms link is clicked
+2018-08-22 13:10:40,858 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-22 13:10:41,990 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-22 13:10:42,266 [main] INFO LogDemo - Find By Id field is filled
+2018-08-24 11:14:07,663 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-24 11:14:14,375 [main] INFO LogDemo - =====Application Started=====
+2018-08-24 11:14:14,479 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-24 11:14:15,566 [main] INFO LogDemo - Forms link is clicked
+2018-08-24 11:14:15,698 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-24 11:14:16,777 [main] INFO LogDemo - i9form is clicked
+2018-08-24 11:14:18,186 [main] INFO LogDemo - submit button is clicked
+2018-08-24 11:14:18,281 [main] INFO LogDemo - Clicked on submit button
+2018-08-24 11:14:18,887 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-24 11:14:21,671 [main] INFO LogDemo - =====Application Started=====
+2018-08-24 11:14:21,739 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-24 11:14:22,855 [main] INFO LogDemo - Forms link is clicked
+2018-08-24 11:14:22,971 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-24 11:14:24,067 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-24 11:14:24,350 [main] INFO LogDemo - Find By Id field is filled
+2018-08-24 20:04:42,781 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-24 20:04:48,457 [main] INFO LogDemo - =====Application Started=====
+2018-08-24 20:04:48,589 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-24 20:04:49,689 [main] INFO LogDemo - Forms link is clicked
+2018-08-24 20:04:49,909 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-24 20:04:51,041 [main] INFO LogDemo - i9form is clicked
+2018-08-24 20:05:11,788 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-24 20:05:14,377 [main] INFO LogDemo - =====Application Started=====
+2018-08-24 20:05:14,431 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-24 20:05:15,594 [main] INFO LogDemo - Forms link is clicked
+2018-08-24 20:05:15,740 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-24 20:05:16,941 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-24 20:05:17,328 [main] INFO LogDemo - Find By Id field is filled
+2018-08-25 08:11:24,219 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 08:11:48,847 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 13:59:59,128 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:04:22,518 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:11:26,934 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:13:29,151 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:38:32,512 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:38:38,735 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 14:38:38,990 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 14:38:40,241 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 14:38:40,486 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 14:38:41,662 [main] INFO LogDemo - i9form is clicked
+2018-08-25 14:39:02,464 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:45:29,483 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 14:45:35,919 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 14:45:36,166 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 14:45:37,480 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 14:45:37,716 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 14:45:38,955 [main] INFO LogDemo - i9form is clicked
+2018-08-25 14:45:59,832 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 15:16:07,526 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 15:16:07,646 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 15:16:08,785 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 15:16:08,963 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-25 15:16:10,103 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-25 15:16:10,543 [main] INFO LogDemo - Find By Id field is filled
+2018-08-25 16:29:01,104 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:29:23,603 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:30:53,390 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:30:57,826 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 16:30:58,572 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 16:30:58,694 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 16:30:59,867 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 16:31:00,096 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 16:31:01,227 [main] INFO LogDemo - i9form is clicked
+2018-08-25 16:31:21,714 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:41:09,947 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:45:26,007 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:47:38,254 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:47:41,803 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 16:47:42,588 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 16:47:42,686 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 16:47:43,847 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 16:47:44,008 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 16:47:45,129 [main] INFO LogDemo - i9form is clicked
+2018-08-25 16:48:05,972 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:50:05,570 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 16:59:53,268 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 17:02:45,031 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 17:02:47,483 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 17:04:23,735 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 17:04:27,232 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 17:04:27,932 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 17:04:28,044 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 17:04:29,221 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 17:04:29,410 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 17:04:30,559 [main] INFO LogDemo - i9form is clicked
+2018-08-25 17:04:52,754 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 21:21:51,876 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 21:21:57,424 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 21:21:58,067 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 21:21:58,366 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 21:21:59,587 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 21:21:59,826 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 21:22:01,031 [main] INFO LogDemo - i9form is clicked
+2018-08-25 21:22:23,736 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 21:39:07,521 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 21:39:12,774 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 21:39:13,524 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 21:39:13,762 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 21:39:14,939 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 21:39:15,236 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 21:39:16,425 [main] INFO LogDemo - i9form is clicked
+2018-08-25 21:39:18,877 [main] INFO LogDemo - submit button is clicked
+2018-08-25 21:39:19,047 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 21:39:19,873 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:09:25,535 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:09:26,445 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:09:26,646 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:09:27,822 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:09:28,234 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-25 22:09:29,418 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-25 22:09:29,851 [main] INFO LogDemo - Find By Id field is filled
+2018-08-25 22:23:23,112 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:23:28,307 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:23:28,972 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:23:29,267 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:23:30,473 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:23:30,725 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 22:23:31,923 [main] INFO LogDemo - i9form is clicked
+2018-08-25 22:23:34,516 [main] INFO LogDemo - submit button is clicked
+2018-08-25 22:23:34,681 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 22:23:55,731 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:28:26,347 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:28:30,989 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:28:31,747 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:28:32,063 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:28:33,244 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:28:33,516 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 22:28:34,722 [main] INFO LogDemo - i9form is clicked
+2018-08-25 22:28:37,124 [main] INFO LogDemo - submit button is clicked
+2018-08-25 22:28:37,290 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 22:28:38,170 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:46:26,492 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:46:31,004 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:46:31,655 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:46:31,964 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:46:33,222 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:46:33,514 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 22:46:34,689 [main] INFO LogDemo - i9form is clicked
+2018-08-25 22:46:37,015 [main] INFO LogDemo - submit button is clicked
+2018-08-25 22:46:37,192 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 22:46:58,317 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 23:48:00,463 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 23:48:06,016 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 23:48:06,677 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 23:48:06,951 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 23:48:08,190 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 23:48:08,466 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 23:48:09,662 [main] INFO LogDemo - i9form is clicked
+2018-08-25 23:48:11,929 [main] INFO LogDemo - submit button is clicked
+2018-08-25 23:48:12,091 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 23:48:32,607 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 23:58:48,537 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 23:58:54,070 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 23:58:54,792 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 23:58:55,058 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 23:58:56,234 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 23:58:56,481 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 23:58:57,647 [main] INFO LogDemo - i9form is clicked
+2018-08-25 23:58:59,994 [main] INFO LogDemo - submit button is clicked
+2018-08-25 23:59:00,182 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 23:59:02,321 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:23:08,616 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:23:14,379 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:23:15,055 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:23:15,592 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:23:17,144 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:23:17,892 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:31:52,613 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:31:57,920 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:31:58,569 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:31:58,855 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 00:32:00,069 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 00:32:00,302 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 00:32:01,481 [main] INFO LogDemo - i9form is clicked
+2018-08-26 00:32:03,960 [main] INFO LogDemo - submit button is clicked
+2018-08-26 00:32:04,090 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 00:32:26,501 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:45:15,029 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:45:20,823 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:45:21,759 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:45:22,057 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 00:45:23,397 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 00:45:23,668 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 00:45:24,856 [main] INFO LogDemo - i9form is clicked
+2018-08-26 00:45:27,374 [main] INFO LogDemo - submit button is clicked
+2018-08-26 00:45:27,524 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 00:45:48,071 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:49:04,063 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:49:09,730 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:49:10,573 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:49:10,823 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 00:49:12,076 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 00:49:12,303 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 00:49:13,528 [main] INFO LogDemo - i9form is clicked
+2018-08-26 00:49:16,033 [main] INFO LogDemo - submit button is clicked
+2018-08-26 00:49:16,179 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 00:49:18,524 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 00:49:19,990 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 00:49:20,754 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 00:49:20,911 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 00:49:22,056 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 00:49:22,251 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 00:49:23,436 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 00:49:23,933 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 01:35:21,416 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 01:35:25,849 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 01:35:28,522 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 01:35:28,844 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 01:35:30,084 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 01:35:30,356 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 01:35:31,545 [main] INFO LogDemo - i9form is clicked
+2018-08-26 01:35:33,990 [main] INFO LogDemo - submit button is clicked
+2018-08-26 01:35:34,180 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 01:35:54,946 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 01:35:56,423 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 01:35:57,337 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 01:35:57,474 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 01:35:58,672 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 01:35:58,884 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 01:36:00,037 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 01:36:00,518 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 02:06:39,972 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:06:44,585 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:06:45,249 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:06:45,563 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:06:46,771 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:06:47,032 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 02:06:48,225 [main] INFO LogDemo - i9form is clicked
+2018-08-26 02:06:50,560 [main] INFO LogDemo - submit button is clicked
+2018-08-26 02:06:50,724 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 02:06:53,064 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:06:54,702 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:06:55,408 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:06:55,576 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:06:56,742 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:06:56,959 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 02:06:58,140 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 02:06:58,591 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 02:13:04,335 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:13:09,611 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:13:10,256 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:13:10,590 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:13:11,786 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:13:12,012 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 02:13:13,226 [main] INFO LogDemo - i9form is clicked
+2018-08-26 02:13:15,600 [main] INFO LogDemo - submit button is clicked
+2018-08-26 02:13:15,748 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 02:13:18,089 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:13:19,952 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:13:20,867 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:13:21,013 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:13:22,162 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:13:22,410 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 02:13:23,558 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 02:13:24,021 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 02:42:20,778 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:42:25,118 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:42:26,433 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:42:26,732 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:42:27,968 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:42:28,219 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 02:42:29,381 [main] INFO LogDemo - i9form is clicked
+2018-08-26 02:42:31,916 [main] INFO LogDemo - submit button is clicked
+2018-08-26 02:42:32,069 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 02:42:34,443 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:42:36,001 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:42:39,325 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:42:39,483 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:42:40,631 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:42:40,837 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 02:42:42,003 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 02:42:42,459 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 02:46:09,382 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:46:13,653 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:46:14,894 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:46:15,134 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:46:16,376 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:46:16,717 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 02:46:17,864 [main] INFO LogDemo - i9form is clicked
+2018-08-26 02:46:20,218 [main] INFO LogDemo - submit button is clicked
+2018-08-26 02:46:20,384 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 02:46:22,724 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 02:46:24,210 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 02:46:25,267 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 02:46:25,408 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 02:46:26,575 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 02:46:26,787 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 02:46:27,965 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 02:46:28,510 [main] INFO LogDemo - Find By Id field is filled
+2018-08-25 22:56:21,908 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:56:25,816 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:56:27,187 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:56:27,322 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:56:28,493 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:56:28,733 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-25 22:56:29,851 [main] INFO LogDemo - i9form is clicked
+2018-08-25 22:56:32,223 [main] INFO LogDemo - submit button is clicked
+2018-08-25 22:56:32,353 [main] INFO LogDemo - Clicked on submit button
+2018-08-25 22:56:34,401 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-25 22:56:35,899 [main] INFO LogDemo - After remote web driver initialization
+2018-08-25 22:56:37,567 [main] INFO LogDemo - =====Application Started=====
+2018-08-25 22:56:37,625 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-25 22:56:38,738 [main] INFO LogDemo - Forms link is clicked
+2018-08-25 22:56:38,900 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-25 22:56:40,076 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-25 22:56:40,451 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 03:00:21,129 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 03:00:26,837 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 03:00:28,357 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 03:00:28,618 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 03:00:29,816 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 03:00:30,068 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 03:00:31,287 [main] INFO LogDemo - i9form is clicked
+2018-08-26 03:00:33,639 [main] INFO LogDemo - submit button is clicked
+2018-08-26 03:00:33,777 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 03:00:56,468 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 03:00:58,576 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 03:01:00,103 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 03:01:00,261 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 03:01:01,471 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 03:01:01,711 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 03:01:02,903 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 03:01:03,390 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 03:02:59,810 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 03:03:04,366 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 03:03:05,349 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 03:03:05,600 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 03:03:06,827 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 03:03:07,085 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 03:03:08,316 [main] INFO LogDemo - i9form is clicked
+2018-08-26 03:03:11,043 [main] INFO LogDemo - submit button is clicked
+2018-08-26 03:03:11,203 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 03:03:13,626 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 03:03:15,345 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 03:03:16,037 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 03:03:16,247 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 03:03:17,425 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 03:03:17,635 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 03:03:18,821 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 03:03:19,304 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 14:07:55,812 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:08:02,229 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:08:03,339 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:08:03,635 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:08:04,967 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:08:05,226 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 14:08:06,451 [main] INFO LogDemo - i9form is clicked
+2018-08-26 14:08:09,987 [main] INFO LogDemo - submit button is clicked
+2018-08-26 14:08:10,193 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 14:08:33,128 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:08:35,906 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:08:36,927 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:08:37,096 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:08:38,444 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:08:38,665 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 14:08:39,902 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 14:08:40,425 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 14:19:56,457 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:20:04,752 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:20:27,782 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:20:30,571 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:20:31,954 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:20:32,332 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:20:33,639 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:20:34,032 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 14:20:35,520 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 14:20:36,661 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 10:26:19,649 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 10:26:23,318 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:31:52,467 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:31:58,130 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:31:59,133 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:31:59,459 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:32:00,727 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:32:01,022 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 14:32:02,240 [main] INFO LogDemo - i9form is clicked
+2018-08-26 14:32:05,705 [main] INFO LogDemo - submit button is clicked
+2018-08-26 14:32:05,953 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 14:32:28,659 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:32:31,169 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:32:32,318 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:32:32,495 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:32:33,924 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:32:34,305 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 14:32:35,523 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 14:32:36,078 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 14:52:44,226 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:52:49,247 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:52:50,277 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:52:50,556 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:52:51,764 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:52:52,009 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 14:52:53,228 [main] INFO LogDemo - i9form is clicked
+2018-08-26 14:52:55,347 [main] INFO LogDemo - submit button is clicked
+2018-08-26 14:52:55,520 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 14:53:18,190 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 14:53:20,432 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 14:53:21,272 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 14:53:21,398 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 14:53:22,557 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 14:53:22,780 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 14:53:23,959 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 14:53:24,382 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:09:29,146 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:09:34,419 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:09:35,561 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:09:35,840 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:09:37,080 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:09:37,361 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:09:38,617 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:09:41,034 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:09:41,188 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:10:03,871 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:10:05,941 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:10:06,739 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:10:06,872 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:10:08,064 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:10:08,305 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:10:09,503 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:10:10,028 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:16:48,949 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:16:55,073 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:16:56,081 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:16:56,398 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:16:57,605 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:16:57,914 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:16:59,133 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:17:01,734 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:17:01,951 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:17:22,763 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:17:24,594 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:17:25,556 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:17:25,708 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:17:26,879 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:17:27,087 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:17:28,301 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:17:28,831 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:22:53,013 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:22:58,267 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:22:59,496 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:22:59,801 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:23:01,025 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:23:01,285 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:23:02,461 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:23:05,254 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:23:05,441 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:23:07,905 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:23:09,611 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:23:10,502 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:23:10,644 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:23:11,824 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:23:12,049 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:23:13,260 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:23:13,789 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:35:53,457 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:35:58,601 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:35:59,575 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:35:59,821 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:36:01,020 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:36:01,274 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:36:02,444 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:36:05,134 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:36:05,303 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:36:07,743 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:36:09,405 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:36:10,119 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:36:10,259 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:36:11,461 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:36:11,697 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:36:12,860 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:36:13,369 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:38:49,890 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:38:54,774 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:38:55,547 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:38:55,848 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:38:57,079 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:38:57,354 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:38:58,634 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:39:01,239 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:39:01,472 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:39:03,972 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:39:05,714 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:39:06,487 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:39:06,644 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:39:07,792 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:39:08,028 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:39:09,204 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:39:09,769 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:41:02,896 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:41:08,408 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:41:09,589 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:41:09,896 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:41:11,134 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:41:11,415 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:41:12,643 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:41:15,912 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:41:16,103 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:41:36,938 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:41:38,766 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:41:39,750 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:41:39,942 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:41:41,147 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:41:41,385 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:41:42,651 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:41:43,225 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 15:43:56,468 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:44:02,929 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:44:03,875 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:44:04,167 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:44:05,444 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:44:05,780 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 15:44:07,118 [main] INFO LogDemo - i9form is clicked
+2018-08-26 15:44:10,336 [main] INFO LogDemo - submit button is clicked
+2018-08-26 15:44:10,666 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 15:44:13,117 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 15:44:15,444 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 15:44:16,352 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 15:44:16,567 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 15:44:17,772 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 15:44:18,089 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 15:44:19,306 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 15:44:19,981 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 16:24:48,014 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:24:52,437 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:24:53,218 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:24:53,461 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:24:54,687 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:24:54,957 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 16:24:56,128 [main] INFO LogDemo - i9form is clicked
+2018-08-26 16:24:58,591 [main] INFO LogDemo - submit button is clicked
+2018-08-26 16:24:58,769 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 16:25:21,423 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:25:23,239 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:25:24,240 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:25:24,423 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:25:25,576 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:25:25,778 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 16:25:26,992 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 16:25:27,448 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 16:32:56,335 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:33:00,863 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:33:01,707 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:33:02,028 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:33:03,252 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:33:03,531 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 16:33:04,747 [main] INFO LogDemo - i9form is clicked
+2018-08-26 16:33:07,200 [main] INFO LogDemo - submit button is clicked
+2018-08-26 16:33:07,365 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 16:33:28,043 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:33:29,681 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:33:30,572 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:33:30,777 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:33:31,977 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:33:32,180 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 16:33:33,376 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 16:33:33,781 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 16:35:53,410 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:35:57,834 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:35:58,862 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:35:59,191 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:36:00,382 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:36:00,613 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 16:36:01,827 [main] INFO LogDemo - i9form is clicked
+2018-08-26 16:36:04,264 [main] INFO LogDemo - submit button is clicked
+2018-08-26 16:36:04,446 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 16:36:06,766 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:36:08,441 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:36:09,113 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:36:09,265 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:36:10,434 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:36:10,666 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 16:36:11,889 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 16:36:12,470 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 12:37:03,151 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 12:37:06,819 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 12:37:07,835 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 12:37:07,935 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 12:37:09,118 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 12:37:09,304 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 12:37:10,450 [main] INFO LogDemo - i9form is clicked
+2018-08-26 12:37:12,729 [main] INFO LogDemo - submit button is clicked
+2018-08-26 12:37:12,873 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 12:37:14,859 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 12:37:16,317 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 12:37:17,271 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 12:37:17,331 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 12:37:18,571 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 12:37:18,829 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 12:37:19,992 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 12:37:20,503 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 16:55:07,874 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:55:12,054 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:55:12,912 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:55:13,301 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:55:14,524 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:55:14,810 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 16:55:15,999 [main] INFO LogDemo - i9form is clicked
+2018-08-26 16:55:18,444 [main] INFO LogDemo - submit button is clicked
+2018-08-26 16:55:18,629 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 16:55:41,352 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:55:43,224 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:55:45,019 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:55:45,147 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:55:46,300 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:55:46,500 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 16:55:47,659 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 16:55:48,145 [main] INFO LogDemo - Find By Id field is filled
+2018-08-26 16:56:31,042 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:56:35,559 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:56:37,131 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:56:37,484 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:56:38,721 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:56:38,980 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-26 16:56:40,184 [main] INFO LogDemo - i9form is clicked
+2018-08-26 16:56:42,542 [main] INFO LogDemo - submit button is clicked
+2018-08-26 16:56:42,695 [main] INFO LogDemo - Clicked on submit button
+2018-08-26 16:56:44,954 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-26 16:56:46,575 [main] INFO LogDemo - After remote web driver initialization
+2018-08-26 16:56:48,927 [main] INFO LogDemo - =====Application Started=====
+2018-08-26 16:56:49,120 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-26 16:56:50,352 [main] INFO LogDemo - Forms link is clicked
+2018-08-26 16:56:50,561 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-26 16:56:51,786 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-26 16:56:52,277 [main] INFO LogDemo - Find By Id field is filled
