@@ -7,8 +7,8 @@ pipeline {
  
   stages {
     stage('checkout project') {
-            steps {
-              step([$class:'DockerComposeBuilder', dockerComposeFile:'./docker-compose.yml'])
+        steps {
+              step([$class:'DockerComposeBuilder', dockerComposeFile:'/var/jenkins_home/workspace/thopa-test/docker-compose.yml', useCustomDockerComposeFile:true ])
         }
     }
    }
