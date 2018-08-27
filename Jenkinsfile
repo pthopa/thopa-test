@@ -10,7 +10,7 @@ pipeline {
   
     stage('runTests') {
         steps {
-            bat 'docker-compose up -f \\Apps\\workspace\\thopa-test\\docker-compose.yml'
+            bat 'dc.bat'
         }
     }
    }
