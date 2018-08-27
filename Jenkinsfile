@@ -10,7 +10,7 @@ pipeline {
   
     stage('runTests') {
         steps {
-            sh 'docker-compose up'  
+            sh 'docker-compose up -f \Apps\workspace\thopa-test\docker-compose.yml'  
         }
     }
    }
