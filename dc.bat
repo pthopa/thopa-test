@@ -1,2 +1,2 @@
 docker-machine env default
-call docker-compose up
+docker-compose up
