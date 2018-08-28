@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 183835264,
+  "duration": 189280036,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "UIStepDef.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 6639262468,
+  "duration": 9110747339,
   "status": "passed"
 });
 formatter.scenario({
@@ -71,14 +71,14 @@ formatter.match({
   "location": "UIStepDef.click_on_FormsPage()"
 });
 formatter.result({
-  "duration": 1448934047,
+  "duration": 1461472387,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.formspage_gets_opened()"
 });
 formatter.result({
-  "duration": 27777945,
+  "duration": 47388640,
   "status": "passed"
 });
 formatter.match({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "UIStepDef.user_clicks_I_FormLink(int)"
 });
 formatter.result({
-  "duration": 1430012403,
+  "duration": 1484840089,
   "status": "passed"
 });
 formatter.match({
@@ -120,7 +120,7 @@ formatter.match({
   "location": "UIStepDef.user_can_fill_the_form_with_name_alias_Name_date_of_birth_current_addr_and_status(String,String,String,String,String)"
 });
 formatter.result({
-  "duration": 1900124384,
+  "duration": 1941178985,
   "status": "passed"
 });
 formatter.match({
@@ -133,22 +133,22 @@ formatter.match({
   "location": "UIStepDef.user_should_be_able_to_enter_alienno(String)"
 });
 formatter.result({
-  "duration": 72481,
+  "duration": 68478,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.click_on_submit_button()"
 });
 formatter.result({
-  "duration": 2348888740,
+  "duration": 2406857714,
   "status": "passed"
 });
 formatter.after({
-  "duration": 75196446,
+  "duration": 130752413,
   "status": "passed"
 });
 formatter.before({
-  "duration": 59869853,
+  "duration": 50614238,
   "status": "passed"
 });
 formatter.background({
@@ -167,7 +167,7 @@ formatter.match({
   "location": "UIStepDef.user_is_on_home_page()"
 });
 formatter.result({
-  "duration": 4117171143,
+  "duration": 2698676549,
   "status": "passed"
 });
 formatter.scenario({
@@ -227,14 +227,14 @@ formatter.match({
   "location": "UIStepDef.click_on_FormsPage()"
 });
 formatter.result({
-  "duration": 1394945102,
+  "duration": 1317480292,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.formspage_gets_opened()"
 });
 formatter.result({
-  "duration": 26039885,
+  "duration": 30617911,
   "status": "passed"
 });
 formatter.match({
@@ -247,7 +247,7 @@ formatter.match({
   "location": "UIStepDef.user_clicks_FindI_FormPageLink(int)"
 });
 formatter.result({
-  "duration": 1437034874,
+  "duration": 1409435375,
   "status": "passed"
 });
 formatter.match({
@@ -260,32 +260,32 @@ formatter.match({
   "location": "UIStepDef.user_enters_formid(String)"
 });
 formatter.result({
-  "duration": 800666451,
+  "duration": 779791408,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.clicks_on_submit_button()"
 });
 formatter.result({
-  "duration": 60140,
+  "duration": 40679,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.form_details_get_displayed()"
 });
 formatter.result({
-  "duration": 10155316,
+  "duration": 14137216,
   "status": "passed"
 });
 formatter.match({
   "location": "UIStepDef.close_the_browser()"
 });
 formatter.result({
-  "duration": 72198363,
+  "duration": 73754096,
   "status": "passed"
 });
 formatter.after({
-  "duration": 27815,
+  "duration": 28147,
   "status": "passed"
 });
 });

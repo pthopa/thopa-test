@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.unisys.verfuture.Verfuture_TestSuite
 -------------------------------------------------------------------------------
-Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.385 s - in com.unisys.verfuture.Verfuture_TestSuite
+Tests run: 17, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 25.893 s - in com.unisys.verfuture.Verfuture_TestSuite

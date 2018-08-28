@@ -1377,3 +1377,20 @@
 2018-08-26 16:56:50,561 [main] INFO LogDemo - User has clicked on FindI9FormLink
 2018-08-26 16:56:51,786 [main] INFO LogDemo - FindI9Form Link is clicked
 2018-08-26 16:56:52,277 [main] INFO LogDemo - Find By Id field is filled
+2018-08-28 14:47:39,225 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-28 14:47:47,071 [main] INFO LogDemo - After remote web driver initialization
+2018-08-28 14:47:47,760 [main] INFO LogDemo - =====Application Started=====
+2018-08-28 14:47:48,076 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-28 14:47:49,357 [main] INFO LogDemo - Forms link is clicked
+2018-08-28 14:47:49,638 [main] INFO LogDemo - User has clicked on I9FormLink
+2018-08-28 14:47:50,859 [main] INFO LogDemo - i9form is clicked
+2018-08-28 14:47:53,305 [main] INFO LogDemo - submit button is clicked
+2018-08-28 14:47:53,541 [main] INFO LogDemo - Clicked on submit button
+2018-08-28 14:47:55,935 [main] INFO LogDemo - =====Browser Session Started=====
+2018-08-28 14:47:57,776 [main] INFO LogDemo - After remote web driver initialization
+2018-08-28 14:47:58,442 [main] INFO LogDemo - =====Application Started=====
+2018-08-28 14:47:58,650 [main] INFO LogDemo - User has clicked on FormsLink
+2018-08-28 14:47:59,774 [main] INFO LogDemo - Forms link is clicked
+2018-08-28 14:48:00,040 [main] INFO LogDemo - User has clicked on FindI9FormLink
+2018-08-28 14:48:01,261 [main] INFO LogDemo - FindI9Form Link is clicked
+2018-08-28 14:48:01,708 [main] INFO LogDemo - Find By Id field is filled
