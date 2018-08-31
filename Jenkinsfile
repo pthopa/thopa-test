@@ -2,16 +2,9 @@ pipeline {
   agent any
 
   stages {
-     stage('delete target dir') {
-        steps {  
-                dir('/var/lib/jenkins/workspace/verfut-test/target') {
-                   deleteDir()
-                }
-        } 
-     }
-
-     stage('checkout project') {
+    stage('checkout project') {
             steps {
+              deleteDir()  
               checkout scm
             }
     } 
