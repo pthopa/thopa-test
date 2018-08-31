@@ -23,6 +23,6 @@ pipeline {
     }
    }
    post(
-       cucumber 'glob'
+       cucumber '**/target/*.json'
    )
 }
