@@ -34,7 +34,7 @@ import com.unisys.verfuture.utilities.TestUtil;
 public class FindI9FormPage extends TestBase {
 	@FindBy(css = "#id-input")
 	WebElement findbyId_Txt;
-	@FindBy(xpath = "form > button")
+	@FindBy(css = "form button")
 	WebElement sub_Btn;
 
 	// Initializing the Page Objects:

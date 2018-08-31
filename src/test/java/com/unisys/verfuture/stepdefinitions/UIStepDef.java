@@ -82,14 +82,14 @@ public class UIStepDef extends TestBase {
 
 	@Then("^user should be able to enter alienno \"([^\"]*)\"$")
 	public void user_should_be_able_to_enter_alienno(String alienno) throws Throwable {
-		// IFP.inputAlienno(alienno);
+		IFP.inputAlienno(alienno);
 	}
 
 	@Then("^click on submit button$")
 	public void click_on_submit_button() throws Throwable {
 		CP = new confirmationPage(driver);
 		CP = IFP.clickOnSubmit();
-		Thread.sleep(1800);
+		Thread.sleep(10000);
 		String confirmText = CP.getConfirmText();
 		System.out.println("Confirmaton Page Title is:" + confirmText);
 		assertTrue(confirmText.contains("Your Form Has Been Submitted"));
@@ -109,7 +109,7 @@ public class UIStepDef extends TestBase {
 
 	@Then("^clicks on submit button$")
 	public void clicks_on_submit_button() throws Throwable {
-		//FIFP.clickOnSubmit();
+		FIFP.clickOnSubmit();
 	}
 
 	@Then("^form details get displayed$")

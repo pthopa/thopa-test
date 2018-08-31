@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="23.147162">
-<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to submit a form" time="16.772586">
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="31.545">
+<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to submit a form" time="23.609028">
 <system-out><![CDATA[Given User  is on home page.................................................passed
 When click on FormsPage.....................................................passed
 Then FormsPage gets opened..................................................passed
@@ -10,7 +10,7 @@ And user should be able to enter alienno "a1234"............................pass
 Then click on submit button.................................................passed
 ]]></system-out>
 </testcase>
-<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to edit the form" time="6.374576">
+<testcase classname="Employee shall be able submit and view information online" name="Employee should be able to edit the form" time="7.935972">
 <system-out><![CDATA[Given User  is on home page.................................................passed
 When click on FormsPage.....................................................passed
 Then FormsPage gets opened..................................................passed

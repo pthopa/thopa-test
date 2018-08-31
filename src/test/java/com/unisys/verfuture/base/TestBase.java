@@ -10,24 +10,12 @@ import java.util.concurrent.TimeUnit;
 
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
-import org.apache.poi.openxml4j.exceptions.InvalidFormatException;
-import org.apache.poi.sl.usermodel.Sheet;
 import org.apache.poi.ss.usermodel.Workbook;
-import org.apache.poi.ss.usermodel.WorkbookFactory;
-import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
-//import org.openqa.selenium.firefox.FirefoxDriver;
-import org.openqa.selenium.support.events.EventFiringWebDriver;
-import org.openqa.selenium.support.ui.WebDriverWait;
 
-import io.github.bonigarcia.wdm.ChromeDriverManager;
-import io.github.bonigarcia.wdm.WebDriverManager;
-import com.unisys.verfuture.utilities.*;
+import com.unisys.verfuture.utilities.TestUtil;
 
 public class TestBase {
 
@@ -65,7 +53,7 @@ public class TestBase {
 			capabilities.setCapability("maxInstances", "10");
 			capabilities.setCapability("maxSessions", 5);
 			try {
-				driver = new RemoteWebDriver(new URL("http://192.168.99.100:4444/wd/hub"),
+				driver = new RemoteWebDriver(new URL("http://hub:4444/wd/hub"),
 				        capabilities);
 				logger.info("After remote web driver initialization");
 			} catch (MalformedURLException e) {
@@ -73,15 +61,15 @@ public class TestBase {
 				throw new RuntimeException(e);
 			}
 		} else if (browserName.equals("FF")) {
-			WebDriverManager.firefoxdriver().setup();
-			driver = new FirefoxDriver(); 
+			//WebDriverManager.firefoxdriver().setup();
+			//driver = new FirefoxDriver(); 
 		}
 
 		//driver.manage().window().maximize();
 		driver.manage().deleteAllCookies();
 		driver.manage().timeouts().pageLoadTimeout(TestUtil.PAGE_LOAD_TIMEOUT, TimeUnit.SECONDS);
 		driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
-
+        //driver.manage().timeouts().
 
 		driver.get(prop.getProperty("url"));
 		logger.info("=====Application Started=====");

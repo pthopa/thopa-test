@@ -56,7 +56,7 @@ public class I9FormPage extends TestBase {
 	// WebElement dobTxt;
 	// @FindBy(css = "#myForm > div:nth-child(4) > label > input")
 	// WebElement addrTxt;
-	@FindBy(css = "#myForm > div:nth-child(5) > label > input")
+	@FindBy(css = "#alienNumber")
 	WebElement aliennoTxt;
 	@FindBy(css = "form button")
 	WebElement subBtn;
@@ -82,7 +82,7 @@ public class I9FormPage extends TestBase {
 		addr_Txt.sendKeys(addr);
 		// TestUtil.waitForVisibilityofElement(status);
 		Select statusDrpdn = new Select(statusDrp);
-		((Select) statusDrpdn).selectByVisibleText("US Citizen");
+		((Select) statusDrpdn).selectByVisibleText(status);
 	}
 
 	public void multiSelection() {

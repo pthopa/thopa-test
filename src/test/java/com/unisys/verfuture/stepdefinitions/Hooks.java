@@ -37,7 +37,7 @@ public class Hooks extends TestBase {
                 System.err.println(somePlatformsDontSupportScreenshots.getMessage());
             }        
         }
-        if(null != driver) {
+        if(driver != null) {
         	driver.quit();
         }
 	}

@@ -22,7 +22,7 @@ import com.unisys.verfuture.utilities.TestUtil;
  *
  */
 public class FormsPage extends TestBase {
-	@FindBy(css = "#nav-formI9")
+	@FindBy(css = "#nav-submit-new")
 	WebElement i9formLink;
 	@FindBy(css = "#nav-find-id")
 	WebElement findI9FormLink;
