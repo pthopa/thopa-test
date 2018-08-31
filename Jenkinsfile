@@ -4,7 +4,9 @@ pipeline {
   stages {
      stage('delete target dir') {
         steps {  
-            sh 'sudo rm -rf /var/lib/jenkins/workspace/verfut-test/target'
+                dir('/var/lib/jenkins/workspace/verfut-test/target') {
+                   deleteDir()
+                }
         } 
      }
 
