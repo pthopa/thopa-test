@@ -3,7 +3,9 @@ pipeline {
 
   stages {
      stage('clean') {
-        sh 'sudo rm -rf /var/lib/jenkins/workspace/verfut-test/target'
+        steps {  
+            sh 'sudo rm -rf /var/lib/jenkins/workspace/verfut-test/target'
+        } 
      }
 
      stage('checkout project') {
