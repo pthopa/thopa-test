@@ -28,7 +28,7 @@ pipeline {
              }
 
              failure {
-                cucumber 'glob'
+                cucumber '**/target/*.json'
 
             }
   }
