@@ -2,7 +2,7 @@ pipeline {
   agent any
 
   stages {
-     stage('clean') {
+     stage('delete target dir') {
         steps {  
             sh 'sudo rm -rf /var/lib/jenkins/workspace/verfut-test/target'
         } 
