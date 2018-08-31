@@ -22,7 +22,14 @@ pipeline {
         }
     }
    }
-   post(
-       cucumber '**/target/*.json'
-   )
+  post {
+            success {
+                cucumber 'glob'
+             }
+
+             failure {
+                cucumber 'glob'
+
+            }
+  }
 }
