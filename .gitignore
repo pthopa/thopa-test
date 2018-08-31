@@ -1,0 +1,7 @@
+/target/
+/log/
+/junit_xml/
+/screenshots/
+.classpath
+.project
+docker-compose.override.yml
