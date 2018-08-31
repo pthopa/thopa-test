@@ -89,7 +89,7 @@ public class UIStepDef extends TestBase {
 	public void click_on_submit_button() throws Throwable {
 		CP = new confirmationPage(driver);
 		CP = IFP.clickOnSubmit();
-		Thread.sleep(10000);
+		Thread.sleep(15000);
 		String confirmText = CP.getConfirmText();
 		System.out.println("Confirmaton Page Title is:" + confirmText);
 		assertTrue(confirmText.contains("Your Form Has Been Submitted"));
